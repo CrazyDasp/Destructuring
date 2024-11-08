@@ -39,5 +39,4 @@ test("Testing get all skills from character", () => {
     ]
 
     expect(getSkills(character)).toEqual(result)
-
 })
